@@ -12,7 +12,6 @@ function add(a,b)
 console.log(add(10,10));
 
 //Function expression
-
 var msg = function()
             {
                 console.log('hii');
