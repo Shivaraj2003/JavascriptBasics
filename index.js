@@ -31,11 +31,14 @@ console.log(person.age);
 console.log(person['name']);
 
 //Arrays
+
+
 let cs3=[];
 console.log(typeof cs3);
 cs3=[1,2,'A'];
 console.log(cs3);
 console.log(cs3[2]);
+
 
 //funtions
 function greet()
